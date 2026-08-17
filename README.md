@@ -7,7 +7,7 @@ Arquivo único, sem dependência externa — abre offline com duplo clique.
 
 - **Mapa** — distribuição das 31 contas por estado e região
 - **Contas** — comitê, roteamento, evidência de nuvem e stack por conta
-- **Decisores** — 601 pessoas com papel, senioridade e ficha de abordagem
+- **Decisores** — 606 pessoas com papel, senioridade e ficha de abordagem
 - **Contas com DISC** — 12 contas e 68 decisores com perfil comportamental,
   esteira de toques e copy pronta
 - **Referência** — catálogo DCX v10, copy por papel, Challenger, battlecard,
