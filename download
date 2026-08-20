@@ -1,8 +1,0 @@
-# nunca versionar dado bruto
-dataset_*.json
-*.xlsx
-*.csv
-/output/
-/config/alvo.*.yaml
-.env
-node_modules/
